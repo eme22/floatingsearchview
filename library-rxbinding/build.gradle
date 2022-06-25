@@ -15,7 +15,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:support-annotations:28.0.0'
+    implementation 'androidx.annotation:annotation:1.4.0'
     implementation 'com.jakewharton.rxbinding4:rxbinding-core:4.0.0'
     implementation project(path: ':library')
 }
