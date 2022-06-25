@@ -32,7 +32,7 @@ Usage
 **Example:**
 
 ```xml
-       <com.arlib.floatingsearchview.FloatingSearchView
+       <com.eme22.floatingsearchview.FloatingSearchView
                 android:id="@+id/floating_search_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
