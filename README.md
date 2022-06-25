@@ -23,7 +23,7 @@ Usage
 
 1. In your dependencies, add
     ```
-         compile 'com.github.eme22:floatingsearchview:2.1.1a'
+         implementation 'com.github.eme22:floatingsearchview:2.1.1a'
     ```
 2. Add a FloatingSearchView to your view hierarchy, and make sure that it takes
    up the full width and height of the screen
